@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Bui Dac Minh *
-* ID: bi11-164 *
-* Group ID: 15 *
-* Project Name: Social Media Dashboard * 
+* Name: Bui Dac Minh 
+* ID: bi11-164 
+* Group ID: 15 
+* Project Name: Social Media Dashboard 
